@@ -1,0 +1,22 @@
+// one line comment
+
+/*this is a multi 
+line comment*/
+
+$primary-color: #bada55;
+$font-size1: 3.125em;
+
+
+// base-styles
+
+// body styling
+body {
+    background-color: $primary-color;
+
+}
+
+// h1 styling
+h1 {
+    font-size: $font-size1;
+
+}
